@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 # Yoeri Nijs
-# Tilburg University
 # April, 2014
 # GPL 3.0
 
